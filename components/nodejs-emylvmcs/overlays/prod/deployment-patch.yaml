@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-tssc/task-runner:1.7
+      - image: quay.io/quay_xjiang/nodejs-emylvmcs:jenkins-d6949ff9446925b58d8def9b772039bcfc3a9e8d
         name: container-image  
